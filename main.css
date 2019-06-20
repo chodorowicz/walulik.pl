@@ -22,3 +22,8 @@
 a { 
   color: black;
 }
+
+.email {
+  height: 22px;
+  vertical-align: middle;
+}
