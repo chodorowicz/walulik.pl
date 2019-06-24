@@ -26,4 +26,6 @@ a {
 .email {
   height: 22px;
   vertical-align: middle;
+  position: relative;
+  top: -1px;
 }
